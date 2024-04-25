@@ -6,6 +6,18 @@ using System.Windows.Forms;
 
 namespace Repositorio
 {
+    /*programa de herencia, herencia es la caracteristica de pasar 
+     * atributos y metodos a otros objetos o clases*/
+    //clase mama
+    class Operacion
+    {
+        /*guarda los espacios de memoria de 3 valores*/
+        //modificar tipo de dato nombre
+        protected   int   valor1;
+        protected   int   valor2;
+        protected   int   Resultado;
+
+    }
     static class Program
     {
         /// <summary>
