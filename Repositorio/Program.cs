@@ -8,6 +8,7 @@ namespace Repositorio
 {
     /*programa de herencia, herencia es la caracteristica de pasar 
      * atributos y metodos a otros objetos o clases*/
+    //OHHHH DRAMA!!!!!
     //clase mama
     class Operacion
     {
